@@ -3,7 +3,7 @@
 An interactive **Power BI dashboard** providing real-time insights into the **Tokyo 2020 Olympics**. This dashboard allows users to explore **medal counts, event details, athlete performances, and country comparisons** with engaging visualizations.  
 
 ## 🌍 Features  
-✅ **Medal Tally** – Live updates on medal standings by country and sport.  
+✅ **Medal Tally** – Live updates on medal standings.  
 ✅ **Event Insights** – View event schedules, locations, and results.  
 ✅ **Country Ranking by Total VS Ingeneral** – Analyze stats of top-performing country ingeneral vs in the total amount of medals.  
 ✅ **Country Comparison** – Compare rankings, medal distributions, and trends.  
