@@ -5,7 +5,7 @@ An interactive **Power BI dashboard** providing real-time insights into the **To
 ## 🌍 Features  
 ✅ **Medal Tally** – Live updates on medal standings by country and sport.  
 ✅ **Event Insights** – View event schedules, locations, and results.  
-✅ **Athlete Performance** – Analyze stats of top-performing athletes.  
+✅ **Country Ranking** – Analyze stats of top-performing country.  
 ✅ **Country Comparison** – Compare rankings, medal distributions, and trends.  
 ✅ **Interactive Filters** – Customize views by country, sport.  
 
