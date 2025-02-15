@@ -7,7 +7,7 @@ An interactive **Power BI dashboard** providing real-time insights into the **To
 ✅ **Event Insights** – View event schedules, locations, and results.  
 ✅ **Athlete Performance** – Analyze stats of top-performing athletes.  
 ✅ **Country Comparison** – Compare rankings, medal distributions, and trends.  
-✅ **Interactive Filters** – Customize views by country, sport, or athlete.  
+✅ **Interactive Filters** – Customize views by country, sport.  
 
 ## 🛠 Technologies Used  
 - **Microsoft Power BI** – Data visualization and dashboard design.  
