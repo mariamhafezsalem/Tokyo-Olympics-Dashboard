@@ -11,7 +11,7 @@ An interactive **Power BI dashboard** providing real-time insights into the **To
 
 ## 🛠 Technologies Used  
 - **Microsoft Power BI** – Data visualization and dashboard design.  
-- **Python** (if applicable) – Data cleaning and transformation.  
+- **Power Query**  – Data cleaning and transformation.  
 - **APIs & Datasets** – Integration of Olympic results and statistics.  
 
 ## 📸 Dashboard Preview  
